@@ -1,5 +1,7 @@
+package features;
+
 public class facturas {
-    package features;
+
 
         private int id;
         private int idCliente;
